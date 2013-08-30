@@ -49,12 +49,34 @@ table {
 #container {
 	background: white;
 	padding: 10px;
+	width: 100%;
+	height: 100%;
+}
+
+h2 {
+	font-size: 18px;
+	font-family: Georgia, serif;
+	font-color: #820000;
+	text-align: center;
+}
+
+h5 {
+	font-size: 15px;
+	font-family: Georgia, serif;
+	font-color: #370000;
+	text-align: left;
 }
 
 p {
 	text-align: left;
 	font-size: 13px;
-	font-family: Courier, monospace;
 	line-height: 1.3em;
 	color: black;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
