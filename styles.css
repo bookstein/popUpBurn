@@ -47,12 +47,14 @@ table {
 }
 
 #container {
-	background: black;
+	background: white;
+	padding: 10px;
 }
 
 p {
 	text-align: left;
 	font-size: 13px;
 	font-family: Courier, monospace;
-	color: white;
+	line-height: 1.3em;
+	color: black;
 }
