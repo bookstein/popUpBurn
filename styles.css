@@ -30,10 +30,14 @@ body {
 	line-height: 1;
 	padding: 10px;
 }
-ol, ul {
-	list-style-type: circle;
-	text-indent: 5px;
+ol, ul, li {
+	margin-left: 25px;
 }
+
+ul {
+	list-style-type: circle;
+}
+
 blockquote, q {
 	quotes: none;
 }
