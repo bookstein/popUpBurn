@@ -89,7 +89,8 @@ a {
 }
 
 #faq span {
-	color: red;
+	font-style: italic;
+	font-weight: normal;
 }
 
 h2, h3, a#Rodeo {
